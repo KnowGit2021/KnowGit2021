@@ -1,4 +1,4 @@
-📌 Hi there, I'm Ulhas👋 | Technology specialist | Architect | Learner
+📌 Hi there, I'm Ulhas👋 | Technology specialist | Cloud & AI Explorer | Tech Enthusiast
 
 <!--
 
