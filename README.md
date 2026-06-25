@@ -1,6 +1,7 @@
 📌 Hi there, I'm Ulhas👋 | Technology specialist | Cloud & AI Explorer | Tech Enthusiast
 
-<!--
+
+
 
 Here are some ideas to get you started:
 
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/ulhas-surwade/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I enjoy working across the .NET ecosystem, cloud-native architectures, automation, and AI-assisted development.
--->
+
 ------------------------------------------------------------------------------------
 🧪** Recent Experiments & Projects**
 
